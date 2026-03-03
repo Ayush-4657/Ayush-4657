@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi, I'm Ayush 👋  <br>Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast<br><br>I am a recent graduate in Artificial Intelligence & Data Science with a strong foundation in Python, SQL, and data analytics. I enjoy breaking down complex problems and solving them using structured, data-driven approaches.<br><br>I focus on understanding concepts deeply — from Python fundamentals and memory behavior to exploratory data analysis and machine learning basics. My goal is to build scalable, real-world data solutions and continuously improve my analytical thinking.<br><br>Currently sharpening my skills in advanced Python, EDA, and machine learning while building practical projects to strengthen problem-solving and business understanding.<br><br>🛠 Skills<br>Languages: Python, SQL  <br>Database: MySQL, PostgreSQL<br>Libraries: Pandas, NumPy, Matplotlib, Seaborn  <br>Tools: Advanced Excel, Power BI<br>Concepts: EDA, Data Cleaning, OOP, Machine Learning Basics
+# Hi, I'm Ayush 👋
+
+## 💫 About Me:
+<br>Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast<br><br>I am a recent graduate in Artificial Intelligence & Data Science with a strong foundation in Python, SQL, and data analytics. I enjoy breaking down complex problems and solving them using structured, data-driven approaches.<br> My goal is to build scalable, real-world data solutions and continuously improve my analytical thinking.<br><br>Currently sharpening my skills in advanced Python, EDA, and machine learning while building practical projects to strengthen problem-solving and business understanding.<br><br>🛠 Skills<br>Languages: Python, SQL  <br>Database: MySQL, PostgreSQL<br>Libraries: Pandas, NumPy, Matplotlib, Seaborn  <br>Tools: Advanced Excel, Power BI<br>Concepts: EDA, Data Cleaning, OOP, Machine Learning
 
 
 ## 🌐 Socials:
